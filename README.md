@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔢 Counter App
 
 A simple and interactive **Counter App** built using **HTML, CSS, and JavaScript**. This project allows users to increase, decrease, and reset the counter value with a visually appealing animated gradient background.
@@ -95,3 +96,7 @@ GitHub: https://github.com/kothurisaiteja
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+=======
+# counter-page
+A responsive counter application built using HTML, CSS, and JavaScript featuring animated backgrounds and dynamic color feedback.
+>>>>>>> f0877e5680d70923464499cb355600321aa8f083
