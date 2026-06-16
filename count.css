@@ -1,0 +1,45 @@
+button{
+    background-color: #4CAF50;
+  color: white;
+  padding: 10px 22px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+    
+}
+button:hover{
+    background-color: #45a049;
+}
+#count{
+    font-size: 100px;
+    text-align: center;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin-top: 100px;
+  min-height: 100vh;
+  background: linear-gradient(130deg, #f52929, #e872af, #e97007);
+  background-size: 400% 400%;
+  animation: gradientMove 4s ease infinite;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
